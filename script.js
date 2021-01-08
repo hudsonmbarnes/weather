@@ -69,6 +69,7 @@ if (searchInput == "") {
                 </p>
         `);
 
+// UV resposive color
         $("#uvIndex").append(uvIndexP);
 
             futureCondition(lat, lon);
